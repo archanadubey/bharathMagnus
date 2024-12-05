@@ -6,8 +6,3 @@ public interface Vehicle {
 }
 
 
-public interface Car extends Vehicle {
-
-    void color();
-
-}
